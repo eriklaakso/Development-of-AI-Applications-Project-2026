@@ -30,7 +30,7 @@ Our group plans to develop an AI-powered job application assistant
 
 1. **User Input:** The user provides information about their education, skills, work experience, and career interests.
 2. **Processing & Guardrails:** The application service layer (`src/services/ai_service.py`) validates and formats the request.
-3. **Model Response:** The model client calls Ollama locally and returns the response back through the service layer to the UI.
+3. **Model Response:** The model client calls Ollama locally. The AI analyzes the user's profile and suggests suitable job roles and career options based on their education, skills, work experience, and interests. The response is returned through the service layer to the UI.
 
 ## Architecture
 
