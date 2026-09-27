@@ -136,7 +136,7 @@ Refer to [`evaluation/README.md`](evaluation/README.md) for guidelines on defini
 
 ## Known limitations
 
-- Highlight known system limitations, unhandled edge cases, or boundaries of current capabilities.
+- The assistant may misunderstand information and may not always accurately judge how well a candidate matches a position. Job listings may also become outdated, and the system depends on the information available to it.
 
 ## Future improvements
 
