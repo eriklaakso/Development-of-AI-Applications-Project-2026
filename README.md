@@ -19,7 +19,7 @@ The intended users are job seekers who want help understanding job requirements 
 help applicants find jobs 
 
 ### Why AI is appropriate
-Why does this problem require AI / LLM capabilities rather than traditional deterministic software?
+AI can give personalized suggestions based on the applicant's skills and the job requirements.
 
 
 ## Solution
