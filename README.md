@@ -4,10 +4,10 @@ Starter template for the **Development of AI Applications** course final group p
 
 ## Team members
 
-- Member 1 Ruut Hyvösaho (ruut.hyvosaho@student.hamk.fi)
-- Member 2 Mikko Mutikainen (mikko.mutikainen@student.hamk.fi)
-- Member 3 Erik Laakso (erik.laakso@student.hamk.fi)
-- Member 4 Negar Vafa (negar.2.vafa@student.hamk.fi)
+- Member 1 Negar Vafa (negar.vafa@student.hamk.fi)
+- Member 2 Erik Laakso (erik.laakso@student.hamk.fi)
+- Member 3 Mikko Mutikainen (mikko.mutikainen@student.hamk.fi)
+- Member 4 Ruut Hyvösaho (ruut.hyvosaho@student.hamk.fi)
 
 ## Problem
 Job seekers often find it difficult to understand how well their skills and experience match a job description.Prepating for job application and interviews can also take a significant amount of time.
@@ -19,7 +19,7 @@ The intended users are job seekers who want help understanding job requirements 
 help applicants find jobs 
 
 ### Why AI is appropriate
-Why does this problem require AI / LLM capabilities rather than traditional deterministic software?
+AI can give personalized suggestions based on the user's skills and the job requirements.
 
 
 ## Solution
