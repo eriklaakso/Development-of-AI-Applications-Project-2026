@@ -10,7 +10,7 @@ Starter template for the **Development of AI Applications** course final group p
 - Member 4 Negar Vafa (negar.2.vafa@student.hamk.fi)
 
 ## Problem
-Job seekers often find it difficult to understand how well their skills and experience match a job description.Prepating for job application and interviews can also take a significant amount of time.
+Job seekers often find it difficult to understand how well their skills and experience match a job description. Preparing for job applications and interviews can also take a significant amount of time. Our AI-powered assistant bridges this gap by automatically searching for relevant positions, analyzing requirements, and tailoring your application materials instantly.
 
 ### Intended users
 The intended users are job seekers who want help understanding job requirements and preparing better job applications. 
