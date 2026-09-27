@@ -1,4 +1,4 @@
-# AI job Application Assistant
+# CareerPilot – AI Job Search & Application Assistant
 
 Starter template for the **Development of AI Applications** course final group project.
 
