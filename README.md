@@ -12,7 +12,7 @@ Starter template for the **Development of AI Applications** course final group p
 Job seekers often find it difficult to understand how well their skills and experience match a job description.Prepating for job application and interviews can also take a significant amount of time.
 
 ### Intended users
-job applicants 
+The intended users are job seekers who want help understanding job requirements and preparing better job applications. 
 
 ### Problem statement
 help applicants find jobs 
