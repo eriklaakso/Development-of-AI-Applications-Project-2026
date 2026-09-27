@@ -28,7 +28,7 @@ Our group plans to develop an AI-powered job application assistant
 
 ## Main user workflow
 
-1. **User Input:** 
+1. **User Input:** The user provides information about their education, skills, work experience, and career interests.
 2. **Processing & Guardrails:** The application service layer (`src/services/ai_service.py`) validates and formats the request.
 3. **Model Response:** The model client calls Ollama locally and returns the response back through the service layer to the UI.
 
