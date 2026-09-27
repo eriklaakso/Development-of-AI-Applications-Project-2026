@@ -1,4 +1,4 @@
-# Project name
+# AI job Application Assistant
 
 Starter template for the **Development of AI Applications** course final group project.
 
@@ -9,23 +9,25 @@ Starter template for the **Development of AI Applications** course final group p
 - Member 3 Name (email@example.com)
 
 ## Problem
+Job seekers often find it difficult to understand how well their skills and experience match a job description.Prepating for job application and interviews can also take a significant amount of time.
 
 ### Intended users
-Who are the primary target users of this application?
+job applicants 
 
 ### Problem statement
-What specific problem does this application solve for those users?
+help applicants find jobs 
 
 ### Why AI is appropriate
 Why does this problem require AI / LLM capabilities rather than traditional deterministic software?
 
+
 ## Solution
 
-Briefly describe your application, its primary value proposition, and how it addresses the problem statement above.
+Our group plans to develop an AI-powered job application assistant
 
 ## Main user workflow
 
-1. **User Input:** The user submits a prompt or query via the Gradio user interface.
+1. **User Input:** 
 2. **Processing & Guardrails:** The application service layer (`src/services/ai_service.py`) validates and formats the request.
 3. **Model Response:** The model client calls Ollama locally and returns the response back through the service layer to the UI.
 
